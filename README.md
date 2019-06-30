@@ -1,5 +1,5 @@
-# ML
-Algorithms of machine learning in python
+# ML_Classification
+Algorithms of machine learning for classification in python
 
 
 Here, some of the algorithms of the machine learning are implemented on the iris dataset's and two datasets produced,
