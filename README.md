@@ -12,3 +12,8 @@ data_generator_1.py is used to generate datasets with 2 classes and the data_gen
 
 The data generated are based on average and variance.
 
+
+The KNN(k-Nearest Neighbors), Bayes, Parzen_Window classifiers are in algorithms directory.
+
+MLP directory is contain MLP(multi layer perceptron) python file.
+
